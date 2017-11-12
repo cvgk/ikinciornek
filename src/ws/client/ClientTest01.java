@@ -17,6 +17,7 @@ public class ClientTest01 {
         String message = hello.getWelcomeMessage("Metin", "Aln");
         
         System.out.println(message);
+        System.out.println(message);
 	}
 
 }
